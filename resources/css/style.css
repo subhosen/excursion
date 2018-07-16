@@ -1,16 +1,32 @@
 body{
+  font-family: Verdana, sans-serif;
   background-color: black;
+  text-align: center;
+  color: white;
 }
 
-h1, h2, h3, p {
-  font-family: Verdana, sans-serif;
-  text-align: center;
-  background-color: black;
-  color: white;
+h1{
+  font-size: 50px;
+  font-weight: bold;
+}
+
+h2{
+  font-size: 42px;
+  font-weight: bold;
+}
+
+p{
+  font-size: 21px;
+  color: Gray;
 }
 
 .download {
     color: Aquamarine;
     font-size: 16px;
     text-decoration: underline;
+    cursor: pointer;
 }
+
+.footer {
+    text-align: right;
+  }
