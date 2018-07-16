@@ -1,0 +1,16 @@
+body{
+  background-color: black;
+}
+
+h1, h2, h3, p {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.download {
+    color: Aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
